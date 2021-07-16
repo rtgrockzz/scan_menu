@@ -1,0 +1,8 @@
+pytesseract
+fastapi
+pillow
+uvicorn
+gunicorn
+uvloops
+httptools
+

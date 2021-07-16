@@ -1,0 +1,6 @@
+#!/bin/bashs
+brew install tesseract
+python3 -m pip install uvicorn
+python3 -m pip install fastapi
+python3 -m pip install pillow
+python3 -m pip install pytesseract
